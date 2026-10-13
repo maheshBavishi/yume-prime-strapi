@@ -1,1 +1,1 @@
-# yume-prime-strapi
+# Traning-Carnival-Fronetend-NextJS--Strapi
